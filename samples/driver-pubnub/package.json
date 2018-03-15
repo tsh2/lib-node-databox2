@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/me-box/driver-pubnub.git"
+    "url": "git+https://github.com/tsh2/driver-pubnub.git"
   },
   "keywords": [
     "sensor",
@@ -19,9 +19,9 @@
   "author": "John Moore <jmoore@zedstar.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/me-box/lib-node-databox/issues"
+    "url": "https://github.com/tsh2/lib-node-databox/issues"
   },
-  "homepage": "https://github.com/me-box/lib-node-databox/",
+  "homepage": "https://github.com/tsh2/lib-node-databox/",
   "dependencies": {
     "databox": "^2.0.1",
     "node-databox": "^0.5.2",
