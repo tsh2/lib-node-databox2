@@ -7,7 +7,7 @@ An example Databox app in Node.js
 
 Clone the git repo into the databox root directory 
 
-     git clone https://github.com/me-box/lib-node-databox.git
+     git clone https://github.com/tsh2/lib-node-databox.git
 
 Run the following commands in a terminal. To build the local databox image. 
  
